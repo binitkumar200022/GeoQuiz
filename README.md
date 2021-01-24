@@ -24,6 +24,7 @@ The second GIF shows the Cheat Activity which pops up on pressing the cheat butt
 <br/>
 The third GIF shows the Main Activity after the user answers all the five questions-
 <br/>
+<br/>
 <img src="Screenshots/GIFs/QuizActivity_Final.gif" alt="CheatActivity" width="30%" height="auto">
 ## Download APK
 <a href="https://www.dropbox.com/s/jkmivmlh9j3u326/GeoQuiz.apk?dl=0"><img src="Screenshots/download.png" alt="Download APK File" width="30%" height="auto"></a>
