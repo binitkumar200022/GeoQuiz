@@ -4,17 +4,21 @@ It is a Quiz App which consists of five questions from Geography and also gives 
 ## Screenshots
 This app consists of two activities. The first one is the Main Activity, i.e the activity which opens on starting the app-
 <br/>
+<br/>
 <img src="Screenshots/QuizActivity.png" alt="QuizActivity" width="30%" height="auto">
 <br/>
 And, the second one is the Cheat Activity which opens up on clicking the cheat button-
+<br/>
 <br/>
 <img src="Screenshots/CheatActivity.png" alt="CheatActivity" width="30%" height="auto">
 ## Working
 The working of the app is shown using GIFs. The first GIF shows the Main Activity which pops up on starting the app-
 <br/>
+<br/>
 <img src="Screenshots/GIFs/QuizActivity.gif" alt="CheatActivity" width="30%" height="auto">
 <br/>
 The second GIF shows the Cheat Activity which pops up on pressing the cheat button-
+<br/>
 <br/>
 <img src="Screenshots/GIFs/CheatActivity.gif" alt="CheatActivity" width="30%" height="auto">
 <br/>
